@@ -19,11 +19,11 @@
 
 *Reference* 
 
-This website helped me geeting some ideas of questions to be asked
+This website helped me geeting some ideas of questions to be asked for the end user and got me to understand more about the problems that can cause the issue
 
 [Link1](https://www.forbes.com/home-improvement/internet/cant-connect-to-wifi/)
 
-This website helped me geeting some ideas for connection troubleshooting 
+This website explains how to troubleshoot a connection and got some good explaining on what to do if the problem happened 
 
 [Link2](https://www.pcmag.com/explainers/12-tips-to-troubleshoot-your-internet-connection)
 
