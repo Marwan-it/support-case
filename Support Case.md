@@ -8,7 +8,6 @@
 - Make sure your router is connected correctely?
 
 ##  basic network wifi connection troubleshooting
- - Try to connect from a different device to check if the problem is you current device.
  - Make sure your WiFi setteing are configured correctly before trying to connect.
  - Try to connect wired to check if the problem is in your WiFi card.
  - Make you signal is strong enough to be able to connect to the network.
