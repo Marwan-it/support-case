@@ -16,7 +16,7 @@
 
 
 ##  Access Point or WiFi Router Troubleshooting
-- Try restarting your acces point or wifi router
+- Try restarting your access point or wifi router.
 -  
 
 
