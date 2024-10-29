@@ -10,3 +10,7 @@
 *Reference* 
 
 [Link1](https://www.forbes.com/home-improvement/internet/cant-connect-to-wifi/)
+
+[Link2](https://www.pcmag.com/explainers/12-tips-to-troubleshoot-your-internet-connection)
+
+
