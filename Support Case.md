@@ -13,14 +13,19 @@
  - Try to connect wired to check if the problem is in your WiFi card.
  - Make you signal is strong enough to be able to connect to the network.
 
+##  Access Point or WiFi Router Troubleshooting
+- 
+
+
 *Reference* 
 
-this website helped me geeting some ideas of questions to be asked
+This website helped me geeting some ideas of questions to be asked
 
 [Link1](https://www.forbes.com/home-improvement/internet/cant-connect-to-wifi/)
 
-this website helped me geeting some ideas for connection troubleshooting 
+This website helped me geeting some ideas for connection troubleshooting 
 
 [Link2](https://www.pcmag.com/explainers/12-tips-to-troubleshoot-your-internet-connection)
+
 
 
