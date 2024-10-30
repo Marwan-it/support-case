@@ -9,4 +9,4 @@
 
 This website explains how to troubleshoot a connection and got some good explaining on what to do if the problem happened 
 
-[Link2](https://www.pcmag.com/explainers/12-tips-to-troubleshoot-your-internet-connection)
+[Link](https://www.pcmag.com/explainers/12-tips-to-troubleshoot-your-internet-connection)
