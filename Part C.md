@@ -6,5 +6,7 @@
 - check if their is any windows updates.
 - check the configurations of your WiFi.
 
+*This site/s explains some of the soultions that can be done to solve the issue
+
   [link](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c#WindowsVersion=Windows_10)
   
